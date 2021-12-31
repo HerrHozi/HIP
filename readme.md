@@ -32,3 +32,28 @@ This command will write the domain user list without disabled accounts or accoun
 ```PowerShell
 Get-DomainUserList -Domain domainname -RemoveDisabled -RemovePotentialLockouts | Out-File -Encoding ascii userlist.txt
 ```
+
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```![image](https://user-images.githubusercontent.com/96825160/147820129-cc3c5bdb-21a3-4cd4-a32c-8b222a1eac5c.png)
+
+
+## My Blog
+
+Check out  [https://herrhozi.com](https://herrhozi.com)
+
