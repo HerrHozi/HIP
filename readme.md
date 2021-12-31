@@ -3,10 +3,11 @@ How to write a good README for your GitHub project?
 
 
 ## Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
+* [Herr Hozi Blog](#my-blog)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Get-DomainUserList Module](#Get-DomainUserList-Module)
+* [Installation](#installation)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
